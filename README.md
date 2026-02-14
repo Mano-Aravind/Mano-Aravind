@@ -1,6 +1,5 @@
-## Hi, I'm Mano Aravind👋
+  ## Hi, I'm Mano Aravind👋
 
-**Mano-Aravind/mano-aravind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
